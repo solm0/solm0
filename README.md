@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm solmi</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Brush Library**
+- 🔭 I’m currently working on [Brush Library](https://solm0.github.io/brush-library/)
 
 - 🌱 I’m currently learning **Javascript**
 
